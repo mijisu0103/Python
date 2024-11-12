@@ -172,12 +172,34 @@ TypeError: object of type 'int' has no len()
 
 <br>
 
+### PAUSE 1. Fix the len() function so it has no more warnings or errors.
+
+```python
+len("12345")
+```
+
+```python
+5
+```
+
+<br>
+
 ### Type Checking
+One can check the data type of any value or variable in Python using the type() function.
+<br>
 
 ### type()
-
 Type functions returns the data type
+```python
+print(type("abc"))
+```
 
+```python
+<class 'str'>
+```
+<br>
+
+### PAUSE 2. Write out 4 type checks to print all 4 data types
 - To see the type
     
     ```python
@@ -271,7 +293,11 @@ ValueError: invalid literal for int() with base 10: 'abc'
 
 <br>
 
-**Type Conversion code example**
+### PAUSE 3. Make this line of code run without errors
+```python
+print("Number of letters in your name: " + len(input("Enter your name")))
+```
+
 ```python
 name_of_the_user = input("Enter your name")
 length_of_name = len(name_of_the_user)
@@ -376,6 +402,7 @@ print(2 ** 3)
 
 <br>
 
+### PAUSE 1. What is the output of this code?
 ```python
 print(3 * 3 + 3 / 3 - 3)
 ```
@@ -386,6 +413,7 @@ print(3 * 3 + 3 / 3 - 3)
 
 <br>
 
+### PAUSE 2. Change the code so it outputs 3?
 ```python
 print(3 * (3 + 3) / 3 - 3)
 ```
