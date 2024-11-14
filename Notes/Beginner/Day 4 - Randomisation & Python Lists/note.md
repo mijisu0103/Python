@@ -77,7 +77,7 @@ print(random_float)
 <br>
 
 ### PAUSE 1 - Heads or Tails
-
+Create a coin flip program using what you have learnt about randomisation in Python. It should randomly print "Heads" or "Tails" everytime it is run.
 ```python
 import random
 
