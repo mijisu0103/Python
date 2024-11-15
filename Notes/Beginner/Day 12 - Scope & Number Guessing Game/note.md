@@ -343,6 +343,14 @@ A3: **16**
 
 <br>
 
+---
+### Introducing the Final Project: The Number Guessing Game
+1. Greets users
+2. Tells users that the number will be chosen between 1 and 100
+3. Asks users to choose difficulty between easy or hard
+4. Tells users how many attempts users have remaining
+5. Asks users to make a guess
+6. Tells users that their chosen number is either too high or too low or correct
 
-
+<br>
 
