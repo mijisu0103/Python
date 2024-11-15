@@ -320,3 +320,16 @@ A3: **4th code**
 
 <br>
 
+---
+### The Secret Auction Program Instructions and Flow Chart
+
+1. Ask the user for input
+2. Save data into dictionary {name: price}
+3. Whether if new bids need to be added
+4. Compare bids in dictionary
+
+   <br>
+
+<div align = center>
+<img src="https://file.notion.so/f/f/a468339a-fa06-46af-a19a-112cfa0c051b/817231a3-9bd2-4164-911e-ab2389960164/Screenshot_2024-11-14_at_11.06.35_PM.png?table=block&id=13e5e786-f1f1-802f-9c34-e53780f87f6b&spaceId=a468339a-fa06-46af-a19a-112cfa0c051b&expirationTimestamp=1731787200000&signature=7UOjQAOCqaYUzo9uP29iL1Mfhp88C-sYSmuDK-laUcA&downloadName=Screenshot+2024-11-14+at+11.06.35%E2%80%AFPM.png" width = 400 height = 400 >
+</div>
