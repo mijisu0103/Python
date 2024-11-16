@@ -1,5 +1,7 @@
 ### Day 2 Project: Tip Calculator
 
+<br>
+
  <div align = center>
    <img src = "P2.gif" width = 600>
  </div>
