@@ -260,6 +260,12 @@ while something_is_true:
     # Then do this
 ```
 
+<br>
+
+[André Roberge Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%202&url=worlds%2Ftutorial_en%2Fhurdle2.json)
+
+<br>
+
 ```python
 def turn_right():
     turn_left()
@@ -283,6 +289,12 @@ while at_goal != True:
 # while not at_goal():
 #    jump()
 ```
+
+<br>
+
+<div align = center>
+    <img src = "H2.gif">
+</div>
 
 <br>
 
