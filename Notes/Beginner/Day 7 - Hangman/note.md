@@ -1,7 +1,7 @@
 ### How to break a Complex Problem down into a Flow Chart
 <div align = center>
   <br>
-  <img src="https://file.notion.so/f/f/a468339a-fa06-46af-a19a-112cfa0c051b/faf74741-5af3-4418-ae42-b15ce6450383/Solution-HangmanFlowchart1.png?table=block&id=13e5e786-f1f1-80e7-9ad0-daa027d472e1&spaceId=a468339a-fa06-46af-a19a-112cfa0c051b&expirationTimestamp=1731780000000&signature=pj7HnlEfNNFnlX0ejDc9Izwg5RR6IfUWTznD0EVi4h8&downloadName=Solution%2B-%2BHangman%2BFlowchart%2B1.png" width="400" height="600"/>
+  <img src="D7 Flowchart.png" width="400" height="600"/>
 </div>
 
 <br>
