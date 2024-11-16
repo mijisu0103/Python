@@ -3,7 +3,7 @@
 <br>
 
 <div align = center>
-  <img src = "https://file.notion.so/f/f/a468339a-fa06-46af-a19a-112cfa0c051b/844cbb88-7064-46c9-a0c7-34f59b54f954/P1.gif?table=block&id=1405e786-f1f1-8041-a7a1-e3ac8349b260&spaceId=a468339a-fa06-46af-a19a-112cfa0c051b&expirationTimestamp=1731873600000&signature=M5iTojn75aF8wnY3j5Ya1UvkCxHmTGuZxTh0VCNKJpg&downloadName=P1.gif">
+  <img src = "https://file.notion.so/f/f/a468339a-fa06-46af-a19a-112cfa0c051b/e9fba2f3-2ca0-4385-ae8f-be1282c5c560/P1_2_(1).gif?table=block&id=1405e786-f1f1-80aa-b10a-f5015a5945cc&spaceId=a468339a-fa06-46af-a19a-112cfa0c051b&expirationTimestamp=1731880800000&signature=GqRitq9fcaApU_fl-D0fYFcq0BXUbEeByAOV-WqSixk&downloadName=P1_2+%281%29.gif" width = 600>
 </div>
 
 <br>
