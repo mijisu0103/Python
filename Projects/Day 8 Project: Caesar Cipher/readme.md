@@ -1,7 +1,7 @@
 ### Day 8 Project: Caesar Cipher
 
 <div align = center>
-    <img src = "P8.gif">
+    <img src = "P8.gif" width = 600>
 </div>
  
  <br>
