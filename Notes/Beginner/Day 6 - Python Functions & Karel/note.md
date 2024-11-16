@@ -103,6 +103,12 @@ for step in range(6):
 
 <br>
 
+<div align = center>
+    <img src = "H1.gif" width = 600>
+</div>
+
+<br>
+
 ---
 
 ### Indentation in Python
@@ -335,6 +341,12 @@ while not at_goal:
 
 <br>
 
+<div align = center>
+    <img src = "H3.gif">
+</div>
+
+<br>
+
 ---
 
 ### Jumping over Hurdles with Variable Heights
@@ -368,3 +380,11 @@ while not at_goal:
     else:
         move()
 ```
+
+<br>
+
+<div align = center>
+    <img src = "H4.gif">
+</div>
+
+<br>
