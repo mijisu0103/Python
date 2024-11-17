@@ -45,7 +45,7 @@ question_data = [
      "question": "Pointers were not used in the original C programming language; they were added later on in C++.",
      "correct_answer": "False", "incorrect_answers": ["True"]},
     {"type": "boolean", "difficulty": "medium", "category": "Science: Computers",
-     "question": "FLAC stands for 'Free Lossless Audio Condenser'&#039;",
+     "question": "FLAC stands for 'Free Lossless Audio Condenser';",
      "correct_answer": "False", "incorrect_answers": ["True"]},
     {"type": "boolean", "difficulty": "medium", "category": "Science: Computers",
      "question": "'Windows NT' is a monolithic kernel.",
