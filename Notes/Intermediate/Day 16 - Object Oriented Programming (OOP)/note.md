@@ -200,7 +200,7 @@ my_screen.exitonclick()
 <br>
 
 <div align = center>
-  <img src = "https://file.notion.so/f/f/a468339a-fa06-46af-a19a-112cfa0c051b/cc74c47a-e8c4-485e-8c0b-1c5f95837120/turtle.gif?table=block&id=13f5e786-f1f1-80a7-8eca-e8a94f1ab2f6&spaceId=a468339a-fa06-46af-a19a-112cfa0c051b&expirationTimestamp=1731801600000&signature=yomG1MfSkJ62Izf8NzP-yQfs8aqAJi91fWiGwFLPpJo&downloadName=turtle.gif">
+  <img src = "T1.gif">
 </div>
 
 <br>
