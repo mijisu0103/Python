@@ -33,7 +33,7 @@ def game():
     print("Welcome to the Number Guessing Game!")
     print("I'm thinking of a number between 1 and 100.")
     answer = randint(1, 100)
-    print(f"Pssst, the correct answer is {answer}")
+    # print(f"Pssst, the correct answer is {answer}") # Testing Purpose
 
     turns = set_difficulty()
 
