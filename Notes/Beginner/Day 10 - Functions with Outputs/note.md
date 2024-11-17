@@ -191,7 +191,7 @@ False
 
 <div align = center>
 
-<img src = "https://file.notion.so/f/f/a468339a-fa06-46af-a19a-112cfa0c051b/110571c2-318a-4c3e-8aee-e261b013c83f/Screenshot_2024-11-14_at_11.31.56_PM.png?table=block&id=13e5e786-f1f1-8090-a9ab-ca93fbac7a5e&spaceId=a468339a-fa06-46af-a19a-112cfa0c051b&expirationTimestamp=1731787200000&signature=AxbqDhVvX-Kp8Ql_M7IzJwb0sDvcacAlj_sdwhOW2g8&downloadName=Screenshot+2024-11-14+at+11.31.56%E2%80%AFPM.png" width = 400 height = 400>
+<img src = "LYFlowchart.png" width = 400 height = 400>
 
 </div>
 
