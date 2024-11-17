@@ -3,7 +3,7 @@
 <br>
 
 <div align = center>
-  <img src = "P19.gif" width = 600>
+  <img src = "P19.gif">
 </div>
 
 <br>
