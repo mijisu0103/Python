@@ -2,7 +2,7 @@
 
 <br>
 
-<div>
+<div align = center>
   <img src = "P9.gif" width = 600>
 </div>
 
