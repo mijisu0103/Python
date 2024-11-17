@@ -191,7 +191,7 @@ False
 
 <div align = center>
 
-<img src = "LYFlowchart.png" width = 400 height = 400>
+<img src = "LYFlowchart.png" width = 600 height = 600>
 
 </div>
 
