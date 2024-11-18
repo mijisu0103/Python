@@ -789,12 +789,6 @@ screen.exitonclick()
 
 <br>
 
-<div align = center>
-  <img src = "DCT.gif">
-</div>
-
-<br>
-
 ```python
 # scoreboard.py
 from turtle import Turtle
@@ -1032,6 +1026,11 @@ screen.exitonclick()
 
 <br>
 
+<div align = center>
+  <img src = "DCT.gif">
+</div>
+
+<br>
 ---
 ### How to Slice Lists & Tuples in Python
 
