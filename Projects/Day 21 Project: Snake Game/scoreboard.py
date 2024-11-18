@@ -1,4 +1,3 @@
-# scoreboard.py
 from turtle import Turtle
 
 # Constants for scoreboard alignment and font
