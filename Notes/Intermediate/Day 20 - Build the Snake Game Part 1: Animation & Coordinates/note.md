@@ -102,6 +102,7 @@ screen.exitonclick()
 </div>
 
 <br>
+
 ---
 
 ### Create a Snake Class & Move to OOP
