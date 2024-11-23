@@ -30,6 +30,12 @@ screen.exitonclick()
 
 <br>
 
+<div align = center>
+    <img src = "SSCSB.png">
+</div>
+
+<br>
+
 ---
 
 ### Animating the Snake Segments on Screen
@@ -91,6 +97,11 @@ screen.exitonclick()
 
 <br>
 
+<div align = center>
+    <img src = "ASSS.gif">
+</div>
+
+<br>
 ---
 
 ### Create a Snake Class & Move to OOP
@@ -173,6 +184,12 @@ while game_is_on:
 # Display the screen until it is clicked
 screen.exitonclick()
 ```
+
+<br>
+
+<div align = center>
+    <img src = "ASSS.gif">
+</div>
 
 <br>
 
@@ -288,3 +305,10 @@ screen.exitonclick()
 ```
 
 <br>
+
+<div align = center>
+    <img src = "P20.gif">
+</div>
+
+<br>
+
