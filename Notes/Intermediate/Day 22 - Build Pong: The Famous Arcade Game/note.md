@@ -17,7 +17,7 @@ screen.exitonclick()
 <br>
 
 <div align = "center">
-  <img src = "sms.png">
+  <img src = "SMS.png">
 </div>
 
 <br>
